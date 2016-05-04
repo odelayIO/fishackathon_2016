@@ -1,6 +1,5 @@
 # Great Catch!
 
-<br>
 ##A social fishing phone/mobile app that tracks fishing activity for science.
 
 <br>
@@ -9,15 +8,20 @@
 
 <br>
 <br>
-####Introduction
-Our talent team members presented a solution to problem statement 1 (Billfish Foundation) from the U.S. Department of State Fishackathon 2016.
-
-<br>
-<br>
-<br>
 ![Great_Catch](http://odelayio.github.io/fishackathon_2016/images/intro.jpg)
-
-
 <br>
 <br>
+####Summary
+We attempted to mainly tackle problem set 1, Billfish, but came up with an idea that can cover problems in multiple problem sets in this competition. Previous entries such as Fish-o-tron focused on technical ability to measure fish with a smart phone. Our Project focuses on social appeal and an algorithm for identifying specific fish species.
 
+
+####Links
+
+
+#####Summision on DevPost.com [devpost](http://devpost.com/software/great-catch)
+<br>
+<br>
+#####U.S. Department of State Problem Statements  [problems](https://challenges.s3.amazonaws.com/fishackathon/2016%20Fishackathon%20Final%20Problem%20Statements.pdf)
+<br>
+<br>
+#####Fishackathon Main Website [fishackathon](http://www.fishackathon.co/)
