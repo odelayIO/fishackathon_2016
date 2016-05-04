@@ -1,6 +1,6 @@
 {
   "name": "Fishackathon 2016",
   "tagline": "",
-  "body": "# Great Catch!\r\n\r\n##A social fishing phone/mobile app that tracks fishing activity for science.\r\n\r\n####Introduction\r\nOur talent team members presented a solution to problem statement 1 (Billfish Foundation) from the U.S. Department of State Fishackathon 2016.\r\n\r\n<br>\r\n<br>\r\n<br>\r\n![Great_Catch](http://odelayio.github.io/fishackathon_2016/images/intro.jpg)\r\n\r\n\r\n<br>\r\n<br>\r\n",
+  "body": "# Great Catch!\r\n\r\n##A social fishing phone/mobile app that tracks fishing activity for science.\r\n\r\n<br>\r\n<br>\r\n![Great_Catch](http://odelayio.github.io/fishackathon_2016/images/intro.jpg)\r\n<br>\r\n<br>\r\n####[Summary]\r\nWe attempted to mainly tackle problem set 1, Billfish, but came up with an idea that can cover problems in multiple problem sets in this competition. Previous entries such as Fish-o-tron focused on technical ability to measure fish with a smart phone. Our Project focuses on social appeal and an algorithm for identifying specific fish species.\r\n\r\n<br>\r\n<br>\r\n<br>\r\n\r\n####[Links]\r\n<br>\r\n<br>\r\n\r\n\r\n#####Summision on [DevPost.com](http://devpost.com/software/great-catch)\r\n<br>\r\n#####U.S. Department of State Problem Statements  [here](https://challenges.s3.amazonaws.com/fishackathon/2016%20Fishackathon%20Final%20Problem%20Statements.pdf)\r\n<br>\r\n#####Fishackathon Main Website [fishackathon.co](http://www.fishackathon.co/)\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
