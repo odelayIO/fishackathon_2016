@@ -12,7 +12,7 @@
 <br>
 <br>
 ####[Summary]
-We attempted to mainly tackle problem set 1, Billfish, but came up with an idea that can cover problems in multiple problem sets in this competition. Previous entries such as Fish-o-tron focused on technical ability to measure fish with a smart phone. Our Project focuses on social appeal and an algorithm for identifying specific fish species.
+We attempted to mainly tackle problem set 1, Billfish, but came up with an idea that can cover problems in multiple problem sets in this competition. Previous entries such as Fish-o-tron focused on technical ability to measure fish with a smart phone. Our Project focuses on social appeal and an algorithm for identifying two specific fish species.
 
 <br>
 <br>
